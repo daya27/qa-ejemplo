@@ -1,0 +1,5 @@
+*.png
+*.xlsx
+data/datos-reales.xlsx
+.idea/
+.DS_Store
